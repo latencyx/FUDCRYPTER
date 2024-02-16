@@ -8,6 +8,8 @@ Scan:
 https://avcheck.net/id/5vheZ4c0Zwl2
 Contact Telegram:
 https://t.me/latencyx
+Discord:
+latencyx.
 
 Tested with AsyncRat,LimeRat,XWorm and Babylon Rat.
 
